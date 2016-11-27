@@ -6,7 +6,7 @@ angle. The code goes on to compute the homography matrix than bring one image (m
 image). Using this transformation, the code then goes on to stitch the two images at the overlapping region to create the
 mosiac.
 
-Files included:
+**Files included:** <br/>
 1. main.m : Shows an example of how to use the given functions to generate the mosaiced image. Require a file called points.mat <br/>
   that includes the co-ordinates of points common to both the images. One such file is included for demo.
 2. computeH.m : Takes as input a set of points common to the two images and returns the homogparhy matrix that relates both of 
