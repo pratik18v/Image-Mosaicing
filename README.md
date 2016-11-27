@@ -22,10 +22,10 @@ mosiac.
 <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1.jpg" height="325" width="300"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu2.jpg" height="238" width="200">
 
 **Points used** <br/>
-<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="560" width="420">
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="420" width="560">
 
 **Warped and Merged Image** <br/>
 
-<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="340" width="278"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu_merged.jpg" height="340" width="278">
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="278" width="340"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu_merged.jpg" height="278" width="340">
 
 
