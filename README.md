@@ -1,6 +1,6 @@
 # **Image Mosacing using Homography**
 
-**Introduction**
+## **Introduction**
 The code takes as input, two images with some overlapping region. Both the images have been taken from a different viewing
 angle. The code goes on to compute the homography matrix than bring one image (moving image) in the plane of the other (fixed
 image). Using this transformation, the code then goes on to stitch the two images at the overlapping region to create the
@@ -17,16 +17,16 @@ Files included:
 4. warpImage.m : Takes as input Iin, Iref and H, trasforms Iin to the plane of Iref using H and then stitches both of them
   along the overlapping region.
 
-**Results**
+## **Results**
 
-# The two input images
-![Alt text](/sbu1.jpg?raw=true "Iin" = 256x256) ![Alt text](/sbu2.jpg?raw=true "Iref" = 256x256)
+**The two input images**
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="128" width="128"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="128" width="128">
 
-# Points used
-![Alt text](/points_used.jpg?raw=true "Points used" = 256x256)
+**Points used**
+![Alt text](/points_used.jpg?raw=true "Points used")
 
-# Warped Image
-![Alt text](/sbu1_warped.jpg?raw=true "Iin warped in the plane of Iref" = 256x256)
+**Warped Image**
+![Alt text](/sbu1_warped.jpg?raw=true "Iin warped in the plane of Iref")
 
-# Merged Image
-![Alt text](/sbu_merged.jpg?raw=true "Merged Image" = 256x256)
+**Merged Image**
+![Alt text](/sbu_merged.jpg?raw=true "Merged Image")
