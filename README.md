@@ -24,13 +24,8 @@ mosiac.
 **Points used** <br/>
 <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="512" width="512">
 
-**Final results** <br/>
+**Warped and Merged Image** <br/>
 
-<table class="image">
-<caption align="bottom">{{ include.description }}</caption>
-<tr><td><img "https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="256" width="256" alt="{{ include.description }}"/></td></tr>
-<caption align="bottom">{{ include.description }}</caption>
-<tr><td><img "https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu_merged.jpg" height="256" width="256" alt="{{ include.description }}"/></td></tr>
-</table>
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="256" width="256"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu_merged.jpg" height="256" width="256">
 
 
