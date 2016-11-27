@@ -23,10 +23,9 @@ Files included:
 <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1.jpg" height="256" width="256"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu2.jpg" height="256" width="256">
 
 **Points used** <br/>
-![Alt text](/points_used.jpg?raw=true "Points used")
-
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="512" width="512">
 **Warped Image** <br/>
-![Alt text](/sbu1_warped.jpg?raw=true "Iin warped in the plane of Iref")
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="256" width="256">
 
 **Merged Image** <br/>
-![Alt text](/sbu_merged.jpg?raw=true "Merged Image")
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu_merged.jpg" height="256" width="256">
