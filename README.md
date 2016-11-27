@@ -19,7 +19,7 @@ mosiac.
 ## **Results**
 
 **The two input images** <br/>
-<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1.jpg" height="434" width="400"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu2.jpg" height="238" width="200">
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1.jpg" height="434" width="400"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu2.jpg" height="318" width="266">
 
 **Points used** <br/>
 <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="420" width="560">
