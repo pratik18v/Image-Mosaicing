@@ -1,4 +1,4 @@
-*Image Mosacing using Homography*
+# **Image Mosacing using Homography**
 
 **Introduction**
 The code takes as input, two images with some overlapping region. Both the images have been taken from a different viewing
@@ -18,14 +18,15 @@ Files included:
   along the overlapping region.
 
 **Results**
-The two input images
-![Alt text](/sbu1.jpg?raw=true "Iin") ![Alt text](/sbu2.jpg?raw=true "Iref")
 
-Points used
-![Alt text](/points_used.jpg?raw=true "Points used")
+# The two input images
+![Alt text](/sbu1.jpg?raw=true "Iin" = 256x256) ![Alt text](/sbu2.jpg?raw=true "Iref" = 256x256)
 
-Warped Image
-![Alt text](/sbu1_warped.jpg?raw=true "Iin warped in the plane of Iref")
+# Points used
+![Alt text](/points_used.jpg?raw=true "Points used" = 256x256)
 
-Merged Image
-![Alt text](/sbu_merged.jpg?raw=true "Merged Image")
+# Warped Image
+![Alt text](/sbu1_warped.jpg?raw=true "Iin warped in the plane of Iref" = 256x256)
+
+# Merged Image
+![Alt text](/sbu_merged.jpg?raw=true "Merged Image" = 256x256)
