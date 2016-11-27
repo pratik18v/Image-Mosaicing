@@ -19,14 +19,14 @@ Files included:
 
 ## **Results**
 
-**The two input images**
+**The two input images** <br/>
 <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1.jpg" height="256" width="256"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu2.jpg" height="256" width="256">
 
-**Points used**
+**Points used** <br/>
 ![Alt text](/points_used.jpg?raw=true "Points used")
 
-**Warped Image**
+**Warped Image** <br/>
 ![Alt text](/sbu1_warped.jpg?raw=true "Iin warped in the plane of Iref")
 
-**Merged Image**
+**Merged Image** <br/>
 ![Alt text](/sbu_merged.jpg?raw=true "Merged Image")
