@@ -24,6 +24,7 @@ Files included:
 
 **Points used** <br/>
 <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="512" width="512">
+
 **Warped Image** <br/>
 <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="256" width="256">
 
