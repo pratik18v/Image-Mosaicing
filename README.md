@@ -19,13 +19,13 @@ mosiac.
 ## **Results**
 
 **The two input images** <br/>
-<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1.jpg" height="256" width="256"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu2.jpg" height="256" width="256">
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1.jpg" height="512" width="512"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu2.jpg" height="512" width="512">
 
 **Points used** <br/>
 <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="512" width="512">
 
 **Warped and Merged Image** <br/>
 
-<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="256" width="256"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu_merged.jpg" height="256" width="256">
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="512" width="512"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu_merged.jpg" height="512" width="512">
 
 
