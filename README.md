@@ -20,7 +20,7 @@ Files included:
 ## **Results**
 
 **The two input images**
-<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="128" width="128"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/points_used.jpg" height="128" width="128">
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1.jpg" height="256" width="256"> <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu2.jpg" height="256" width="256">
 
 **Points used**
 ![Alt text](/points_used.jpg?raw=true "Points used")
