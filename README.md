@@ -26,5 +26,6 @@ mosiac.
 
 **Final results** <br/>
 
-<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="256" width="256"> *(image1)* <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu_merged.jpg" height="256" width="256"> *(image2)*
+<img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu1_warped.jpg" height="256" width="256"> <caption align="bottom">{{ include.description }}</caption>
+ <img src="https://github.com/pratik18v/Image-Mosaicing/blob/master/sbu_merged.jpg" height="256" width="256">
 
